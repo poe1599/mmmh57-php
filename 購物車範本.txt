@@ -1,0 +1,2 @@
+1. 將MySQLdatabase裡面的資料庫匯到server上
+2. __connect_db.php裡面的使用者跟密碼必須是server的合格用戶
